@@ -1,1 +1,3 @@
-The other file that makes up your SiS app is called environment.yaml. Download that file. 
+# requirements.txt
+snowflake-snowpark-python
+streamlit
